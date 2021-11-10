@@ -1,8 +1,8 @@
-import React, { useState } from 'react';
+import React from 'react';
 import { Link } from 'react-router-dom';
 import { Grid, Button } from '@material-ui/core';
 
-export default function Public() {
+const Public = () => {
     return (
         <Grid
             container
@@ -34,3 +34,5 @@ export default function Public() {
         </Grid> 
     )
 }
+
+export default Public;
