@@ -1,8 +1,8 @@
 {
-    "realm": "Lighthouse",
-    "auth-server-url": "http://localhost:8085/auth/",
-    "ssl-required": "external",
-    "resource": "react-sample-app",
-    "public-client": true,
-    "confidential-port": 0
+  "realm": "Lighthouse",
+  "auth-server-url": "http://localhost:8080/auth/",
+  "ssl-required": "external",
+  "resource": "react-sample-app",
+  "public-client": true,
+  "confidential-port": 0
 }
