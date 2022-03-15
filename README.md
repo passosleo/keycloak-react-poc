@@ -64,12 +64,10 @@ http://localhost:3000/
 
 1️⃣ - Rode o comando abaixo:
 ```
-...
+docker run -d -p 3000:3000 --name keycloak-react-app leopassos/keycloak-react-app:1.0
 ```
 
 2️⃣ - Acesse no navegador:
 ```
 http://localhost:3000/
 ```
-
-<!-- ![Screenshot da página de login](https://res.cloudinary.com/leopassos/image/upload/v1640487839/leopassos/login.png) -->
