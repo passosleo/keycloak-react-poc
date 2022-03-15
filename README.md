@@ -34,30 +34,32 @@ cd keycloak-react-app
 Instale as dependências:
 ```
 npm install
-```
-ou
-```
+# ou
 yarn install
 ```
 
 Inicie o projeto:
 ```
 npm start
-```
-ou
-```
+# ou
 yarn start
 ```
 
 Acesse no navegador:
+```
 localhost:3000
+```
 
 ## Instalação com Docker
 
 Rode o comando abaixo:
+```
 ...
+```
 
 Acesse no navegador:
+```
 localhost:3000
+```
 
 <!-- ![Screenshot da página de login](https://res.cloudinary.com/leopassos/image/upload/v1640487839/leopassos/login.png) -->
