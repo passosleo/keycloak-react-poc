@@ -4,12 +4,14 @@ Aplicação React simples integrada com um servidor de autenticação Keycloak.
 
 ## Objetivo
 
-Esta aplicação tem como objetivo demonstrar de forma simples a integração de uma aplicação React com um cluster Keycloak. A aplicação consiste em apenas duas páginas, sendo uma pública e uma privada. Ao tentar acessar a página privada, a requisição é enviada para o cluster Keycloak que trata a autenticação do usuário e retorna para a página privada uma vez que a autenticação ocorreu com sucesso.
+Este projeto tem como objetivo demonstrar de forma simples a integração de uma aplicação React com um cluster Keycloak. A aplicação consiste em apenas duas páginas, sendo uma pública e uma privada. Ao tentar acessar a página privada, a requisição é enviada para o cluster Keycloak que trata a autenticação do usuário e retorna para a página privada uma vez que a autenticação ocorreu com sucesso.
 
 ## Dependências
 
 Esta aplicação depende de um cluster Keycloak para funcionar corretamente. 
+
 Você pode obter o cluster através do seguinte repositório:
+
 **Keycloak Cluster Service: [https://game-lib-react.web.app/](https://game-lib-react.web.app/)**
 
 ## Tecnologias Utilizadas
@@ -34,14 +36,18 @@ cd keycloak-react-app
 Instale as dependências:
 ```
 npm install
-# ou
+```
+ou
+```
 yarn install
 ```
 
 Inicie o projeto:
 ```
 npm start
-# ou
+```
+ou
+```
 yarn start
 ```
 
