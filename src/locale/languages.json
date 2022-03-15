@@ -1,0 +1,58 @@
+{
+  "pt": {
+    "project-title": "Integração Keycloak",
+    "project-info": "Este projeto tem como objetivo demonstrar a integração de um aplicativo React com o servidor de autenticação Keycloack de maneira simples e descomplicada.",
+    "public-title": "Área Pública",
+    "public-info": "Esta é a área pública da aplicação, clique no botão abaixo para autenticar e acessar a área privada.",
+    "public-button": "Acessar",
+    "private-message": "Autenticado com sucesso!",
+    "private-title": "Área Privada",
+    "private-info": "Esta é a área privada da aplicação. Se você consegue ler isso significa que a autenticação está funcionando.",
+    "private-info2": "Você pode visualizar JSON Web Token gerado através do console nas ferramentas de desenvolvedor do navegador.",
+    "private-subtitle": "Informações do usuário:",
+    "private-user": "Usuário:",
+    "private-name": "Nome:",
+    "private-verified": "E-mail verificado:",
+    "private-yes": "Sim",
+    "private-no": "Não",
+    "private-button": "Sair"
+  },
+
+  "en": {
+    "project-title": "Keycloak Integration",
+    "project-info": "This project aims to demonstrate the integration of a React application with the Keycloack authentication server in a simple and uncomplicated way",
+    "public-title": "Public Area",
+    "public-info": "This is the public area of ​​the application, click the button below to authenticate and access the private area.",
+    "public-button": "Access",
+    "private-message": "Successfully authenticated!",
+    "private-title": "Private Area",
+    "private-info": "This is the private area of ​​the application. If you can read this it means the authentication is working.",
+    "private-info2": "You can view the generated JSON Web Token through the console in the browser's developer tools.",
+    "private-subtitle": "User information:",
+    "private-user": "User:",
+    "private-name": "Name:",
+    "private-verified": "Verified e-mail:",
+    "private-yes": "Yes",
+    "private-no": "No",
+    "private-button": "Logout"
+  },
+
+  "es": {
+    "project-title": "Integración Keycloak",
+    "project-info": "Este proyecto tiene como objetivo demostrar la integración de una aplicación React con el servidor de autenticación Keycloack de una manera simple y sin complicaciones.",
+    "public-title": "Área Pública",
+    "public-info": "Esta es el área pública de la aplicación, haga clic en el botón de abajo para autenticarse y acceder al área privada.",
+    "public-button": "Acceso",
+    "private-message": "Autenticado con éxito!",
+    "private-title": "Área Privada",
+    "private-info": "Esta es el área privada de la aplicación. Si puede leer esto, significa que la autenticación está funcionando.",
+    "private-info2": "Puede ver el token web JSON generado a través de la consola en las herramientas de desarrollo del navegador.",
+    "private-subtitle": "Informacion del usuario:",
+    "private-user": "Usuario:",
+    "private-name": "Nombre:",
+    "private-verified": "E-mail verificado:",
+    "private-yes": "Sí",
+    "private-no": "No",
+    "private-button": "Salir"
+  }
+}
