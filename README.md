@@ -14,7 +14,7 @@ Esta aplicação depende de um servidor de autenticação Keycloak rodando em pa
 
 Você pode obter a solução completa do serviço de autenticação Keycloak clusterizado através do seguinte repositório:
 
-👉🏻 **Keycloak Cluster Service: [https://github.com/passosleo/keycloak-cluster-service](https://github.com/passosleo/keycloak-cluster-service)**
+👉🏻 **[Keycloak Cluster Service](https://github.com/passosleo/keycloak-cluster-service)** 👈🏻
 
 ## 🚀 Tecnologias Utilizadas
 
