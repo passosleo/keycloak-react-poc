@@ -26,35 +26,27 @@ Você pode obter a solução completa do serviço de autenticação Keycloak clu
 
 ## 🔧 Instalação
 
-1️⃣ - Baixe o repositório em um local de sua preferência:
+1️⃣ Baixe o repositório em um local de sua preferência:
 ```
 git clone https://github.com/passosleo/keycloak-react-app.git
 ```
 
-2️⃣ - Acesse a pasta do projeto:
+2️⃣ Acesse a pasta do projeto:
 ```
 cd keycloak-react-app
 ```
 
-3️⃣ - Instale as dependências:
+3️⃣ Instale as dependências:
 ```
 npm install
 ```
-ou
-```
-yarn install
-```
 
-4️⃣ - Inicie o projeto:
+4️⃣ Inicie o projeto:
 ```
 npm start
 ```
-ou
-```
-yarn start
-```
 
-5️⃣ - Acesse no navegador:
+5️⃣ Acesse no navegador:
 ```
 http://localhost:3000/
 ```
@@ -62,12 +54,14 @@ http://localhost:3000/
 
 ## 🐳 Instalação com Docker
 
-1️⃣ - Rode o comando abaixo:
+1️⃣ Rode o comando abaixo:
 ```
 docker run -d -p 3000:3000 --name keycloak-react-app leopassos/keycloak-react-app:1.0
 ```
 
-2️⃣ - Acesse no navegador:
+2️⃣ Acesse no navegador:
 ```
 http://localhost:3000/
 ```
+
+*Repositório da imagem no Docker Hub: **[leopassos/keycloak-react-app](https://hub.docker.com/r/leopassos/keycloak-react-app)**
