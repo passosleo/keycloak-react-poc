@@ -64,4 +64,4 @@ docker run -d -p 3000:3000 --name keycloak-react-app leopassos/keycloak-react-ap
 http://localhost:3000/
 ```
 
-*Repositório da imagem no Docker Hub: **[leopassos/keycloak-react-app](https://hub.docker.com/r/leopassos/keycloak-react-app)**
+* Repositório da imagem no Docker Hub: **[leopassos/keycloak-react-app](https://hub.docker.com/r/leopassos/keycloak-react-app)**
