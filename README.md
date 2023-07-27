@@ -58,4 +58,4 @@ Access the application in your browser at:
 http://localhost:3000/
 ```
 
-[Docker Hub Repository](https://hub.docker.com/r/leopassos/keycloak-react-app)**
+[Docker Hub Repository](https://hub.docker.com/r/leopassos/keycloak-react-app)
