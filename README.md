@@ -1,4 +1,4 @@
-# 🔑 Keycloak React POC
+## 🔑 Keycloak React POC
 
 A POC (proof-of-concept) made to demonstrate ReactJS integration with Keycloak authentication server.
 
